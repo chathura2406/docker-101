@@ -18,30 +18,6 @@ This repository provides a structured path to learn containerization with Docker
 
 ---
 
-## �️ Learning Paths
-
-Choose your path based on your experience and learning style:
-
-### 🚀 Fast Track (3-4 hours)
-1. [Quick Start Guide](docs/quick-start.md) - 30 min
-2. Complete Labs 1-4 - 2-3 hours
-3. Skim [Theory Guide](docs/theory.md) for gaps
-
-### 📚 Complete Course (8-12 hours)
-1. [Learning Path Overview](docs/LEARNING-PATH.md) - Plan your journey
-2. [Theory Guide](docs/theory.md) - 2-3 hours
-3. [Hands-on Labs](docs/hands-on.md) - 4-6 hours
-4. Build your own project - 2+ hours
-
-### 🎯 Just the Essentials (1 hour)
-1. [Quick Start Guide](docs/quick-start.md) - Read entirely
-2. Try the workflow examples
-3. Use [Cheat Sheet](docs/cheat-sheet.md) as reference
-
----
-
-## 📚 Course Contents
-
 ### 🎯 Start Here
 - [**docs/LEARNING-PATH.md**](docs/LEARNING-PATH.md) — **Your roadmap** with recommended paths, visual guides, and success criteria
 - [**docs/quick-start.md**](docs/quick-start.md) — **⚡ Quick Start** for the three main tasks: Create Image → Run Container → Push
@@ -65,7 +41,7 @@ Choose your path based on your experience and learning style:
 
 ---
 
-## 🎯 Lab Tasks Overview
+## Lab Tasks Overview
 
 You will complete **5 comprehensive labs**:
 
